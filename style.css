@@ -1,0 +1,15 @@
+:root:{
+--cor-fundo:#888888;
+--cor-principal:#922222;
+--cor-secundaria:#752525;
+--cor-destaque:#ffffff;
+--cor-texto:#000000;
+}
+
+bory{
+    background-color:var(--cor-fundo);
+    color:var(--cor-texto);
+    display:flex;
+    justify-content:center;
+
+}
